@@ -1,5 +1,9 @@
 if(grade>=60) {pass} else {fail}
-sum A,B and C
+declare
+grade 1, grade 2 and grade 3
+iinput
+input and sum A,B and C
 devide the result by 3
+output
 if the result is lower than 60, fail
 if the result is 60 or higher, pass
