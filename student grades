@@ -1,0 +1,5 @@
+if(grade>=60) {pass} else {fail}
+sum A,B and C
+devide the result by 3
+if the result is lower than 60, fail
+if the result is 60 or higher, pass
